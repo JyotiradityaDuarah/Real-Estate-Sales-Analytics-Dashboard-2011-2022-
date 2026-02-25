@@ -1,4 +1,4 @@
-**🏘 Real Estate Sales Analytics Dashboard (2011–2022)**
+## 🏘 Real Estate Sales Analytics Dashboard (2011–2022)
 Project Overview
 
 This project analyzes over a decade of real estate transaction data (2011–2022) to uncover trends in property sales, valuation alignment, and town-level performance.
@@ -15,7 +15,7 @@ Valuation efficiency using Sales Ratio metrics
 
 The final output is a parameter-driven, interactive dashboard with a structured analytical narrative.
 
-**Dataset**
+## Dataset
 
 The dataset contains transactional-level records including:
 
@@ -35,7 +35,7 @@ Date Recorded (2011–2022)
 
 Each row represents a single property transaction.
 
-**Key Analytical Questions**
+## Key Analytical Questions
 
 How have real estate sales evolved over time?
 
@@ -47,7 +47,7 @@ Where do assessed values diverge from market prices?
 
 Is transaction activity concentrated or distributed evenly?
 
-**Dashboard Components**
+## Dashboard Components
 
 1️⃣ Time-Series Analysis
 
@@ -89,7 +89,7 @@ Geographic map for regional analysis
 
 Calculated field categorizing Sale Amount (High / Medium / Low)
 
-**Key Insights**
+## Key Insights
 
 Transaction volume is geographically concentrated.
 
@@ -101,7 +101,7 @@ Sales Ratio variability suggests inconsistent valuation alignment across towns.
 
 Market performance differs materially by municipality.
 
-**Tools Used**
+## Tools Used
 
 Tableau (Dashboard & Story Design)
 
@@ -113,7 +113,7 @@ Interactive Filters & Actions
 
 Geographic Mapping
 
-**Project Deliverables**
+## Project Deliverables
 
 Packaged Tableau Workbook (.twbx)
 

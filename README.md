@@ -48,6 +48,7 @@ Where do assessed values diverge from market prices?
 Is transaction activity concentrated or distributed evenly?
 
 Dashboard Components
+
 1️⃣ Time-Series Analysis
 
 Year-over-year sales trend
